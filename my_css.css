@@ -6,8 +6,15 @@ body {
 
 h1{
   font-weight: bold; 
+  color: #3300CC;
+}
+
+h2{
+  font-weight: bold; 
   color: #C00000;
 }
+
+
 
 div {
   height: 50px;
